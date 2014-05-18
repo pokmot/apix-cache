@@ -1,5 +1,5 @@
 {
-    "name": "apix/cache",
+    "name": "pokmot/apixcache",
     "description": "A thin cache wrapper with a generic interface to various caching backends emphasising cache taggging and indexing.",
     "type": "library",
     "keywords": ["apc", "redis", "mongodb", "mongo", "igbinary", "cache", "apix", "serializer", "json", "pdo", "sqlite", "mysql", "postgres", "pgsql", "memcached", "memcache"],
